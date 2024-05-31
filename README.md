@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind, JavaScript, ReactJs, PHP, and MySQL**
+- 🌱 I’m currently learning **Bootstrap, JavaScript, PHP, and MySQL**
 
 - 📫 How to reach me **Ivan082403@gmail.com**
 
